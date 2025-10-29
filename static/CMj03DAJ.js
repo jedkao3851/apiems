@@ -1,0 +1,1 @@
+import{P as s}from"./DYk2sCLH.js";import{u}from"./Df21mkxZ.js";function i(e,a){const{title:r,titleTemplate:o,...m}=e;return u({title:r,titleTemplate:o,_flatMeta:m},{...a,transform(t){const n=s({...t._flatMeta});return delete t._flatMeta,{...t,meta:n}}})}export{i as u};
